@@ -18,4 +18,3 @@ public class animal{
            System.out.println("Cat_B");
      }
 }
-           
